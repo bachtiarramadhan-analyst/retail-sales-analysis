@@ -108,7 +108,7 @@ Additional columns were created to enhance analysis:
 
 ### 4. Customer Segments
 
-- Loyal customers generated the highest revenue contribution.
+- Customer revenue contribution was relatively balanced across all customer segments.
 
 ### 5. Sales Timing
 
